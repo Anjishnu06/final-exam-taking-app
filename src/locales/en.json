@@ -1,0 +1,50 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "exam": "Take Exam",
+    "contact": "Contact",
+    "logins": "Login/Signup",
+    "logout": "Logout",
+    "hi": "Hi",
+    "brand": "QUESTIONNAIRE"
+  },
+  "home": {
+    "home_title": "Take your",
+    "home_title2": "Exams",
+    "home_title3": "online",
+    "home_description": "With the help of our online examination system, you can easily create and take exams online.",
+    "home_get_started": "Get Started"
+  },
+  "registration": {
+    "register_title": "Create Account",
+    "register_description": "Enter your information to create an account",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email_placeholder": "Enter your email",
+    "password_placeholder": "Enter your password",
+    "confirm_password": "Confirm Password",
+    "register": "Register",
+    "registering": "Registering...",
+    "already_have_account": "Already have an account?",
+    "login": "Login",
+    "login_desc": "Don't have an account?",
+    "success_register": "Account successfully created!",
+    "wrong_password":"Incorrect password. Please try again."
+  },
+  "login": {
+    "login_title": "Login into your Account",
+    "email_label": "Email",
+    "password_label": "Password",
+    "password_placeholder": "Enter your password",
+    "login": "Login",
+    "logging_in": "Logging in...",
+    "login_desc": "Don't have an account?",
+    "register": "Register",
+    "error_invalid_email": "Please enter a valid email address.",
+    "error_password_length": "Password must be at least 8 characters long.",
+    "error": "Error",
+    "success_login": "Account successfully logged in!",
+    "error_no_account":"No account found with this email"
+  }
+}
